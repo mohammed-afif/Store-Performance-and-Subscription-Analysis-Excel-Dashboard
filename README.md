@@ -27,4 +27,6 @@ Pivot tables for data summarization
 Conditional formatting for highlighting key metrics
 
 This project exemplifies my expertise in leveraging Excel to create powerful data visualizations that translate complex data into actionable insights. The dashboard provides a holistic view of store performance and subscription trends, enabling the identification of growth opportunities and optimization of strategies.
+
+
 https://github.com/user-attachments/assets/cd0c62fa-d733-4fc4-be08-7ca2388fb1f8
